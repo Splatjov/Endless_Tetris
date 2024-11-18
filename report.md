@@ -48,9 +48,8 @@ And then, I applied the Beam Search algorithm (I used a non-recursive version fo
 Honestly, I think that the configuration with length 2 with all possible paths, and then count it.
 I made a lot of tests, and even had the one with 10.000.000 score points!!
 
-<video controls>
-  <source src="win.mp4" type="video/mp4">
-</video>
+
+https://github.com/user-attachments/assets/24f1bb09-a2a0-42d8-a3c0-1d47369dcddd
 
 ![img.png](img.png)
 (I had a lot of tests)
